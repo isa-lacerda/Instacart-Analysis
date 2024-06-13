@@ -16,7 +16,7 @@ Este projeto foi realizado como parte da disciplina de Ciência de Dados, com ê
 - Construir visualizações interativas para apoiar pontos de decisão.
 - Implementar técnicas de pré-processamento de dados para garantir a qualidade dos dados.
 - Fornecer documentação clara e concisa de descobertas e recomendações.
-₊˚‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵˚₊
+
 
 ---
 
