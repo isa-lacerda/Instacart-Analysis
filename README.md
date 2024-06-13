@@ -3,7 +3,6 @@
     <a href="#english">🇺🇸 English (US) 🇺🇸</a>
 </center>
 
----
 
 # Instacart-Analysis.
 
@@ -29,5 +28,9 @@ This project was made for my Data Science class, with a focus on analyzing the I
 - Build interactive visualizations to support decision points.
 - Implement data preprocessing techniques to ensure data quality.
 - Provide clear and concise documentation of findings and recommendations.
-₊˚‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵˚₊
 </center>
+
+#### Youtube Video (english subtitles soon): 
+
+
+[![YouTube Video](https://img.youtube.com/vi/uPrvVHvji4I/0.jpg)](https://youtu.be/uPrvVHvji4I?si=uaCDKhVrIdxLc6O5)
